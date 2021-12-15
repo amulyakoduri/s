@@ -1,0 +1,80 @@
+.nav-content {
+  position: absolute;
+  width: 1440px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+
+  background: #1e1e30;
+}
+
+.logo-text {
+  position: absolute;
+  width: 130px;
+  height: 24px;
+  left: 150px;
+  top: 28px;
+
+  font-family: Bree Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 0px;
+  /* identical to box height, or 120% */
+
+  text-align: center;
+  margin-bottom: 10px;
+
+  /* Light / blue-gray / 50 */
+
+  color: #f8fafc;
+}
+.india-text {
+  color: #007bff;
+}
+.list {
+  list-style-type: none;
+}
+.home-nav-link {
+  position: absolute;
+  width: 44px;
+  height: 24px;
+  left: 1155px;
+  top: 28px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+  /* identical to box height, or 150% */
+
+  /* Light / blue-gray / 400 */
+
+  color: #94a3b8;
+}
+
+.about-nav-link {
+  position: absolute;
+  width: 43px;
+  height: 24px;
+  left: 1247px;
+  top: 28px;
+  text-decoration: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  /* Light / blue-gray / 50 */
+
+  color: #94a3b8;
+}
+
+.active-nav-link {
+  font-weight: 500;
+  color: #f8fafc;
+}
